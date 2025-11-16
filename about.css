@@ -1,0 +1,56 @@
+.topfooditems{
+    border: 0px solid black;
+    
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+}
+.top_cat_pro{
+    border: 0px solid blue;
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin-top: 20px;
+    
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px 5px yellow;
+    transition: transform 1s;
+    
+
+}
+.top_cat_pro:hover{
+    transform: scale(1.1);
+    
+}
+.top_cat_pro p{
+    align-items: center;
+}
+p{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.footer{
+    border: 2px solid black;
+    height: 270px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+
+    
+    
+}
+.footerbox{
+    height: 180px;
+    width: 300px;
+    border: 0px solid blue;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: green;
+    text-align: center;
+    
+    
+    
+}

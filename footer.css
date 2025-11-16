@@ -1,0 +1,28 @@
+.footer{
+    border: 2px solid black;
+    height: 270px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    
+
+    
+    
+}
+.footer a{
+    text-decoration: none;
+    color: green;
+}
+.footerbox{
+    height: 180px;
+    width: 300px;
+    border: 0px solid blue;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: green;
+    text-align: center;
+    
+    
+    
+}

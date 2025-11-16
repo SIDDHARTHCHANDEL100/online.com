@@ -1,0 +1,42 @@
+.topfooditems{
+    border: 0px solid black;
+    
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.top_cat_pro{
+    border: 0px solid blue;
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px 5px yellow;
+    transition: transform 1s;
+
+}
+.top_cat_pro:hover{
+    transform: scale(1.1);
+}
+.top_cat_pro p{
+    align-items: center;
+}
+.button{
+    border: 0px solid green;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button input{
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: orange;
+    font-size: 20px;
+}
+.button input:hover{
+    background-color: green;
+}
