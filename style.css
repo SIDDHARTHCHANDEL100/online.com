@@ -139,7 +139,7 @@
 }
 .button{
     border: 0px solid green;
-    height: 45px;
+    height: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -618,4 +618,5 @@ p{
     
     
 }
+
 
